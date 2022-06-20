@@ -1,0 +1,15 @@
+{
+  "name": "kari",
+  "version": "0.0.2",
+  "description": "카건동 전용 디스코드 봇",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "태정",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "node-fetch": "^2.6.3"
+  }
+}
