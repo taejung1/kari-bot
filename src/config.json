@@ -1,9 +1,8 @@
 {
-    "toke2" : "OTQ2NjQwOTI1OTI3NTQyODc0.G7fRpw.c_6DvKijz3dHUhUTNowO8Co8gyzH_q-GPJYkQE",
-    "token" : "OTg2NTc2NjQwMzM3Mzc5NDA4.Gw2nr8.qg6CoeZME8lML5AJ3F0TOZ9ELs5uYeJGAvYkvs",
-    "guildId" : "857221866385047562",
-    "voice" : "926452991320522852",
-    "member" : "988086343219421254",
-    "activit" : ["아마이 카리", "made by taejung " , "🔔카리봇 작동중!"],
+    "token" : "토큰",
+    "guildId" : "길드id",
+    "voice" : "채널생성채널id",
+    "member" : "",
+    "activit" : ["상태메세지"],
     "guildch" : ""
 }
